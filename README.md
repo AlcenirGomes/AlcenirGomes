@@ -1,19 +1,15 @@
 <div align="center">
-  ## Hi, Welcome! 😄👋🏼
+  <h1> Hi, Welcome! 😄👋🏼 </h1>
 </div>
 
-**AlcenirGomes/AlcenirGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> A little more about me! </h2>
 
-Here are some ideas to get you started:
+- 🤓 **My mane is Alcenir, I have been studying and looking for opportunities to enter the IT field.**
+- 👨🏻‍💻 **I am studying Systems Analysis and Development at** <a href="https://www.impacta.edu.br/" target="_blank"> Impacta College </a>
+- 📚 **I am currently studying the 3rd semester.**
 
-- 🔭 I’m currently working on: Projeto de um aplicativo mobile.
-- 🌱 I’m currently learning: Kotlin, React.
-- 👯 I’m looking to collaborate on: Projetos de código aberto relacionados a desenvolvimento mobile.
-- 🤔 I’m looking for help with: Integração de APIs.
-- 💬 Ask me about: Desenvolvimento Android e Kotlin.
+
 - 📫 How to reach me: [seuemail@exemplo.com](mailto:seuemail@exemplo.com) | [LinkedIn](https://www.linkedin.com/in/seuperfil/)
-- 😄 Pronouns: Ele/Dele.
-- ⚡ Fun fact: Gosto de resolver cubos mágicos.
 
 ## Projetos em Destaque
 
