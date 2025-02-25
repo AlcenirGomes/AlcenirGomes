@@ -14,6 +14,17 @@
 
 ## Technologies
 
+<a href="https://www.docker.com/">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a>
+<a href="https://www.java.com/">
+  <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a>
+<a href="https://kotlinlang.org/">
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></a>
+<a href="https://www.mysql.com/">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></a>
+<a href="https://www.python.org/">
+  <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a>
+
 ## Social media
 
 <a href="mailto:alcenir.g.costa@gmail.com">
