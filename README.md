@@ -4,6 +4,12 @@
 
 ## A little more about me!
 
+*I'm happy that you're here! I'm passionate about technology and programming. Currently, I'm focusing more each day to become a Back-End Developer.
+I'm continuously improving my techinical skills. To deliver more quality results and positively impact the people around me.
+I'm passionate about erevything involving technology and programming!*
+
+## What have I been doing
+
 - 🤓 *My mane is Alcenir, I have been studying and looking for opportunities to enter the IT field.*
 - 👨🏻‍💻 *I am studying Systems Analysis and Development at <a href="https://www.impacta.edu.br/" target="_blank"> Impacta College* </a>
 - 📚 *I am currently studying the 3rd semester.*
