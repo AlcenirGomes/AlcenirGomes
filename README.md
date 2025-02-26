@@ -8,11 +8,11 @@
 I'm continuously improving my techinical skills. To deliver more quality results and positively impact the people around me.
 I'm passionate about erevything involving technology and programming!*
 
-## What have I been doing
+## 📚 What have I been doing
 
-- 🤓 *My mane is Alcenir, I have been studying and looking for opportunities to enter the IT field.*
-- 👨🏻‍💻 *I am studying Systems Analysis and Development at <a href="https://www.impacta.edu.br/" target="_blank"> Impacta College* </a>
-- 📚 *I am currently studying the 3rd semester.*
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Person%20Light%20Skin%20Tone%2C%20Beard.png" alt="Person Light Skin Tone, Beard" width="25" height="25" /> *My mane is Alcenir, I have been studying and looking for opportunities to enter the IT field.*
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="25" height="25" /> *I am studying Systems Analysis and Development at <a href="https://www.impacta.edu.br/" target="_blank"> Impacta College* </a>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> *I am currently studying the 3rd semester.*
 
 ## Featured Projects
 
