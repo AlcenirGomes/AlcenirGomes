@@ -11,9 +11,9 @@ I'm passionate about erevything involving technology and programming!*
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="35" height="35" /> What have I been doing </h2>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Person%20Light%20Skin%20Tone%2C%20Beard.png" alt="Person Light Skin Tone, Beard" width="25" height="25" /> *My mane is Alcenir, I have been studying and looking for opportunities to enter the IT field,
-I am studying Systems Analysis and Development at <a href="https://www.impacta.edu.br/" target="_blank">Impacta College</a> I am currently studying the 3rd semester.* 
+I am studying Systems Analysis and Development at <a href="https://www.impacta.edu.br/" target="_blank">Faculdade Impacta</a> I am currently studying the 3rd semester.* 
 
-## Featured Projects
+<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="25" height="25" /> Featured Projects </h2>
 
 - [Under construction](URL_DO_PROJETO_1)
 - [Under construction](URL_DO_PROJETO_2)
