@@ -27,7 +27,7 @@ I am studying Systems Analysis and Development at <a href="https://www.impacta.e
 - [Under construction](URL_DO_PROJETO_1)
 - [Under construction](URL_DO_PROJETO_2)
 
-## Technologies I'm studying in depth
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" /> Technologies I'm studying in depth
 
 <a href="https://www.docker.com/">
   <img src="https://skillicons.dev/icons?i=docker&theme=dark"></a>
@@ -40,14 +40,14 @@ I am studying Systems Analysis and Development at <a href="https://www.impacta.e
 <a href="https://www.python.org/">
   <img src="https://skillicons.dev/icons?i=python&theme=dark"></a>
 
-## Social media
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> Social media
 
 <a href="https://discord.gg/TQVnRKSb" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord&theme=dark"></a>
 <a href="https://www.linkedin.com/in/alcenir-g-costa/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"></a>
 
-  ## Contact email
+  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" /> Contact email
 
   <a href="mailto:alcenir.g.costa@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark"></a>
