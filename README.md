@@ -22,6 +22,8 @@ I am studying Systems Analysis and Development at <a href="https://www.impacta.e
 -  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Microscope.webp" alt="Microscope" width="25" height="25" />*And doing Bootcamps and further improving the languages I already have some knowledge of,<br>
    and putting them into projects through <a href="https://www.dio.me/" target="__blank">DIO.</a>*
 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" alt="Sports Medal" width="25" height="25" /><a href="https://skillshop.credential.net/profile/alcenirgomesdacosta536592/wallet/" target="_blank">*2x Google Analytics Certified</a>*
+
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="25" height="25" /> Featured Projects </h2>
 
 - [Under construction](URL_DO_PROJETO_1)
