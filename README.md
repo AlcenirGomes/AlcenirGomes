@@ -32,24 +32,42 @@ I am studying Systems Analysis and Development at <a href="https://www.impacta.e
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" /> Technologies I'm studying in depth
 
 <a href="https://www.docker.com/">
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark"></a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark"></a>
+<a href="https://flask.palletsprojects.com/en/stable/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask&theme=dark"></a>
+<a href="https://developers.google.com/analytics?hl=pt-br/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=googleanalytics&theme=dark"></a>
+<a href="https://gradle.org/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gradle&theme=dark"></a>
 <a href="https://www.java.com/">
-  <img src="https://skillicons.dev/icons?i=java&theme=dark"></a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark"></a>
 <a href="https://kotlinlang.org/">
-  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark"></a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin&theme=dark"></a>
 <a href="https://www.mysql.com/">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark"></a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark"></a>
+<a href="https://www.postgresql.org/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark"></a>
 <a href="https://www.python.org/">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark"></a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark"></a>
+<a href="https://spring.io/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=spring&theme=dark"></a>
+<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=dark"></a>
+<a href="https://www.postman.com/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark"></a>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> Social media
 
 <a href="https://discord.gg/TQVnRKSb" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord&theme=dark"></a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=discord&theme=dark"></a>
 <a href="https://www.linkedin.com/in/alcenir-g-costa/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"></a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark"></a>
+<a href="https://x.com/AlcenirCosta87/" target="_blank">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=x&theme=dark"></a>
 
   ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" /> Contact email
 
-  <a href="mailto:alcenir.g.costa@gmail.com">
+<a href="mailto:alcenir.g.costa@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark"></a>
+<a href="mailto:alcenir.g.costa@hotmail.com">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=outlook&theme=dark"></a>
