@@ -31,6 +31,8 @@ I am studying Systems Analysis and Development at <a href="https://www.impacta.e
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" /> Technologies I'm studying in depth
 
+<a href="https://www.djangoproject.com/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=django&theme=dark"></a>
 <a href="https://www.docker.com/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark"></a>
 <a href="https://flask.palletsprojects.com/en/stable/">
@@ -44,6 +46,7 @@ I am studying Systems Analysis and Development at <a href="https://www.impacta.e
 <a href="https://kotlinlang.org/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin&theme=dark"></a>
 <a href="https://www.mysql.com/">
+<br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark"></a>
 <a href="https://www.postgresql.org/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark"></a>
@@ -51,6 +54,8 @@ I am studying Systems Analysis and Development at <a href="https://www.impacta.e
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark"></a>
 <a href="https://spring.io/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=spring&theme=dark"></a>
+<a href="https://www.sqlite.org/index.html">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite&theme=dark"></a>
 <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=dark"></a>
 <a href="https://www.postman.com/">
