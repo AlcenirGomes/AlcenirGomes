@@ -33,31 +33,50 @@ I am studying Systems Analysis and Development at <a href="https://www.impacta.e
 
 <a href="https://www.djangoproject.com/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=django&theme=dark"></a>
+  
 <a href="https://www.docker.com/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark"></a>
+  
 <a href="https://flask.palletsprojects.com/en/stable/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=flask&theme=dark"></a>
+  
 <a href="https://developers.google.com/analytics?hl=pt-br/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=googleanalytics&theme=dark"></a>
+
 <a href="https://gradle.org/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gradle&theme=dark"></a>
+
+<a href="https://insomnia.rest/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=insomnia&theme=dark"></a>
+
 <a href="https://www.java.com/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark"></a>
+
+<br>
+
 <a href="https://kotlinlang.org/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin&theme=dark"></a>
+
 <a href="https://www.mysql.com/">
-<br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark"></a>
+  
 <a href="https://www.postgresql.org/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark"></a>
+  
 <a href="https://www.python.org/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark"></a>
+  
 <a href="https://spring.io/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=spring&theme=dark"></a>
+  
 <a href="https://www.sqlite.org/index.html">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite&theme=dark"></a>
+  
 <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=dark"></a>
+  
+<br>
+
 <a href="https://www.postman.com/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark"></a>
 
